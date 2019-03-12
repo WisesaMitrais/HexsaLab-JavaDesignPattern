@@ -3,7 +3,7 @@
 ## Creational Design Pattern
 ### Creational design patterns are used to design the instantiation process of objects. The creational pattern uses the inheritance to vary the object creation. This pattern can be further divided into class-creation patterns and object-creational patterns. While class-creation patterns use inheritance effectively in the instantiation process, object-creation patterns use delegation effectively to get the job done.
 1. Singleton
-2. Abstract Factory
+2. Abstract Factory Method
 3. Builder
 4. Factory Method
 5. Prototype
