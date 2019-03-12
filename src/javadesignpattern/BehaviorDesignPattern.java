@@ -1,4 +1,4 @@
-package javadesignpattern.behavior;
+package javadesignpattern;
 
 public class BehaviorDesignPattern {
     

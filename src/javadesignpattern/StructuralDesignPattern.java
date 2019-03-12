@@ -1,4 +1,4 @@
-package javadesignpattern.structural;
+package javadesignpattern;
 
 public class StructuralDesignPattern {
     
